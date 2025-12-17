@@ -33,7 +33,7 @@ Conceptos históricos, matemática esencial, surgimiento de ChatGPT
 - Matemática funcional: álgebra lineal, cálculo, probabilidad
 - Hito: Entiendes el contexto y puedes explicar IA a colegas
 
-![](../images/overview.png)
+![](images/overview.png)
 
 
 ### **Fase 2: Arquitectura

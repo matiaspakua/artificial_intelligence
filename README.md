@@ -1,6 +1,6 @@
 # Artificial intelligence
 
-![](../images/ai.png)
+![](images/ai.png)
 Imagen fuente: https://en.wikipedia.org/wiki/History_of_artificial_intelligence
 
 
