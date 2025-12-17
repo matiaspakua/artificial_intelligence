@@ -1,8 +1,10 @@
 # Artificial intelligence
 
 ![](../images/ai.png)
+Imagen fuente: https://en.wikipedia.org/wiki/History_of_artificial_intelligence
 
-Repo para armar un plan de estudio y pruebas sobre AI y topicos relacionados
+
+Repo para armar un plan de estudio y pruebas sobre AI y tópicos relacionados
 
 1. Overview. [link](AI-overview.md)
 2. Plan: [link](AI-learning-plan.md)
