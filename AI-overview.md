@@ -55,7 +55,7 @@ Tecnologías prácticas usables ahora: ChatGPT, RAG, prompting
 - Casos de uso en tu dominio (aerospace, ciberseguridad)
 - Hito: Construyes sistemas funcionales con RAG + LLM
 
-![](../images/AI_agent_architecture.png)
+![](images/AI_agent_architecture.png)
 
 AI Agent Architecture: Core Components and System Integration
 
@@ -69,7 +69,7 @@ Sistemas autónomos, MCP, multi-agentes, el futuro
 - Patrón ReAct (Reasoning + Acting)
 - Hito: Diseñas e implementas sistemas con agentes autónomos
 
-![](../images/AI_evolution.png)
+![](images/AI_evolution.png)
 
 Evolution of AI: From ChatGPT Launch to 700M Users (2022-2025)
 
